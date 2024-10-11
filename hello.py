@@ -3,6 +3,9 @@
 @Yuya Shimizu
 
 クイックソート
+
+testeaeaweadf
+
 """
 
 def quick_sort(data):
@@ -31,3 +34,7 @@ if __name__ == '__main__':
 
     print(f"{DATA} → {quick_sort(DATA)}")
     
+
+
+
+
