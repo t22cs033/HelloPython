@@ -49,6 +49,8 @@ def judge(adata,bdata):
 
 
 
+
+
 print("Aの手: "+font(random_a)+" v.s. "+" Bの手: "+font(random_b)+" -> " +judge(random_a,random_b))
             
         
